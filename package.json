@@ -1,0 +1,25 @@
+{
+  "name": "svelte-actions",
+  "version": "0.0.1",
+  "description": "A bunch of life saving svelte actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/ticruz38/svelte-actions"
+  },
+  "keywords": [
+    "svelte",
+    "svelte3",
+    "svelte-actions",
+    "sveltejs"
+  ],
+  "author": "Ticruz",
+  "license": "ISC",
+  "dependencies": {
+    "svelte": "^3.32.0",
+    "typescript": "^4.1.3"
+  }
+}

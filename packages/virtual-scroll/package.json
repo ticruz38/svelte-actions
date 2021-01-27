@@ -1,0 +1,21 @@
+{
+  "name": "@svelte-actions/virtual-scroll",
+  "version": "0.0.1",
+  "description": "Virtual scrolling using svelte actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/ticruz38/svelte-actions"
+  },
+  "keywords": [
+    "svelte",
+    "sveltejs",
+    "virtual-scroll",
+    "svelte-actions"
+  ],
+  "author": "Ticruz",
+  "license": "ISC"
+}

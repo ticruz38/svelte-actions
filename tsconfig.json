@@ -1,0 +1,13 @@
+{
+  "exclude": ["node_modules/*"],
+
+  "compilerOptions": {
+    "sourceMap": true,
+    "target": "es6",
+    "module": "es6",
+    "moduleResolution": "node",
+    "baseUrl": "./",
+    "typeRoots": ["typings"],
+    "esModuleInterop": true
+  }
+}
